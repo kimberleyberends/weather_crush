@@ -1,5 +1,8 @@
 # weather_crush
-Ruby gem exercises using yahoo_weatherman. They can see your weather-destiny.
+Skillcrush exercises using the <a href='https://rubygems.org/gems/yahoo_weatherman/versions/2.0.0'>yahoo_weatherman</a> Ruby gem.
+
+<br>:zap:They can see your weather-destiny:zap:
+
 
 <h2> weather.rb</h2>
 Reports current weather conditions in Terminal.
